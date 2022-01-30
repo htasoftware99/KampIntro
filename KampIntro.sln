@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{8D2D2118-F8AB-4C02-89AE-2CC52FB11C2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{65F8CCCA-D5A8-46B3-9D50-B07430B1AB84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{65F8CCCA-D5A8-46B3-9D50-B07430B1AB84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{791C42B3-2C39-44E9-9C53-24ED01F4F2E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{791C42B3-2C39-44E9-9C53-24ED01F4F2E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{81B8ACAE-9235-4BA6-96DF-683BEB5ACBDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{791C42B3-2C39-44E9-9C53-24ED01F4F2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{791C42B3-2C39-44E9-9C53-24ED01F4F2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{791C42B3-2C39-44E9-9C53-24ED01F4F2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B8ACAE-9235-4BA6-96DF-683BEB5ACBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B8ACAE-9235-4BA6-96DF-683BEB5ACBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B8ACAE-9235-4BA6-96DF-683BEB5ACBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B8ACAE-9235-4BA6-96DF-683BEB5ACBDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
