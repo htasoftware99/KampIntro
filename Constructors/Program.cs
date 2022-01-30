@@ -7,7 +7,7 @@ namespace Constructors
         static void Main(string[] args)
         {
             Customer customer1 = new Customer() { Id= 1, Name= "Hasan", Surname="Aykaç", City = "Ankara"};
-            Customer customer2 = new Customer(2,"Bial", "Bilgili", "Çorum");
+            Customer customer2 = new Customer(2,"Mehmet", "Aykaç", "Çorum");
             
         }
     }
