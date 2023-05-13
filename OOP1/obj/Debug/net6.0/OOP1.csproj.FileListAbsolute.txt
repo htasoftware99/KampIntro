@@ -1,0 +1,15 @@
+D:\KampIntro\KampIntro\OOP1\bin\Debug\net6.0\OOP1.exe
+D:\KampIntro\KampIntro\OOP1\bin\Debug\net6.0\OOP1.deps.json
+D:\KampIntro\KampIntro\OOP1\bin\Debug\net6.0\OOP1.runtimeconfig.json
+D:\KampIntro\KampIntro\OOP1\bin\Debug\net6.0\OOP1.dll
+D:\KampIntro\KampIntro\OOP1\bin\Debug\net6.0\OOP1.pdb
+D:\KampIntro\KampIntro\OOP1\obj\Debug\net6.0\OOP1.csproj.AssemblyReference.cache
+D:\KampIntro\KampIntro\OOP1\obj\Debug\net6.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KampIntro\KampIntro\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfoInputs.cache
+D:\KampIntro\KampIntro\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfo.cs
+D:\KampIntro\KampIntro\OOP1\obj\Debug\net6.0\OOP1.csproj.CoreCompileInputs.cache
+D:\KampIntro\KampIntro\OOP1\obj\Debug\net6.0\OOP1.dll
+D:\KampIntro\KampIntro\OOP1\obj\Debug\net6.0\refint\OOP1.dll
+D:\KampIntro\KampIntro\OOP1\obj\Debug\net6.0\OOP1.pdb
+D:\KampIntro\KampIntro\OOP1\obj\Debug\net6.0\OOP1.genruntimeconfig.cache
+D:\KampIntro\KampIntro\OOP1\obj\Debug\net6.0\ref\OOP1.dll

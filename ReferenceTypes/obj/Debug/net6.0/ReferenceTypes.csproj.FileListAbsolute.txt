@@ -1,0 +1,15 @@
+D:\KampIntro\KampIntro\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.exe
+D:\KampIntro\KampIntro\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.deps.json
+D:\KampIntro\KampIntro\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.runtimeconfig.json
+D:\KampIntro\KampIntro\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.dll
+D:\KampIntro\KampIntro\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.pdb
+D:\KampIntro\KampIntro\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.csproj.AssemblyReference.cache
+D:\KampIntro\KampIntro\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\KampIntro\KampIntro\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.AssemblyInfoInputs.cache
+D:\KampIntro\KampIntro\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.AssemblyInfo.cs
+D:\KampIntro\KampIntro\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\KampIntro\KampIntro\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.dll
+D:\KampIntro\KampIntro\ReferenceTypes\obj\Debug\net6.0\refint\ReferenceTypes.dll
+D:\KampIntro\KampIntro\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.pdb
+D:\KampIntro\KampIntro\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.genruntimeconfig.cache
+D:\KampIntro\KampIntro\ReferenceTypes\obj\Debug\net6.0\ref\ReferenceTypes.dll

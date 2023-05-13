@@ -1,0 +1,15 @@
+D:\KampIntro\KampIntro\GameProject\bin\Debug\net6.0\GameProject.exe
+D:\KampIntro\KampIntro\GameProject\bin\Debug\net6.0\GameProject.deps.json
+D:\KampIntro\KampIntro\GameProject\bin\Debug\net6.0\GameProject.runtimeconfig.json
+D:\KampIntro\KampIntro\GameProject\bin\Debug\net6.0\GameProject.dll
+D:\KampIntro\KampIntro\GameProject\bin\Debug\net6.0\GameProject.pdb
+D:\KampIntro\KampIntro\GameProject\obj\Debug\net6.0\GameProject.csproj.AssemblyReference.cache
+D:\KampIntro\KampIntro\GameProject\obj\Debug\net6.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\KampIntro\KampIntro\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfoInputs.cache
+D:\KampIntro\KampIntro\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfo.cs
+D:\KampIntro\KampIntro\GameProject\obj\Debug\net6.0\GameProject.csproj.CoreCompileInputs.cache
+D:\KampIntro\KampIntro\GameProject\obj\Debug\net6.0\GameProject.dll
+D:\KampIntro\KampIntro\GameProject\obj\Debug\net6.0\refint\GameProject.dll
+D:\KampIntro\KampIntro\GameProject\obj\Debug\net6.0\GameProject.pdb
+D:\KampIntro\KampIntro\GameProject\obj\Debug\net6.0\GameProject.genruntimeconfig.cache
+D:\KampIntro\KampIntro\GameProject\obj\Debug\net6.0\ref\GameProject.dll

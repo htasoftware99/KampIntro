@@ -1,0 +1,15 @@
+D:\KampIntro\KampIntro\Donguler\bin\Debug\net6.0\Donguler.exe
+D:\KampIntro\KampIntro\Donguler\bin\Debug\net6.0\Donguler.deps.json
+D:\KampIntro\KampIntro\Donguler\bin\Debug\net6.0\Donguler.runtimeconfig.json
+D:\KampIntro\KampIntro\Donguler\bin\Debug\net6.0\Donguler.dll
+D:\KampIntro\KampIntro\Donguler\bin\Debug\net6.0\Donguler.pdb
+D:\KampIntro\KampIntro\Donguler\obj\Debug\net6.0\Donguler.csproj.AssemblyReference.cache
+D:\KampIntro\KampIntro\Donguler\obj\Debug\net6.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+D:\KampIntro\KampIntro\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfoInputs.cache
+D:\KampIntro\KampIntro\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfo.cs
+D:\KampIntro\KampIntro\Donguler\obj\Debug\net6.0\Donguler.csproj.CoreCompileInputs.cache
+D:\KampIntro\KampIntro\Donguler\obj\Debug\net6.0\Donguler.dll
+D:\KampIntro\KampIntro\Donguler\obj\Debug\net6.0\refint\Donguler.dll
+D:\KampIntro\KampIntro\Donguler\obj\Debug\net6.0\Donguler.pdb
+D:\KampIntro\KampIntro\Donguler\obj\Debug\net6.0\Donguler.genruntimeconfig.cache
+D:\KampIntro\KampIntro\Donguler\obj\Debug\net6.0\ref\Donguler.dll
